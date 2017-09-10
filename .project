@@ -14,4 +14,21 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/SeaCreature/patrick.wav</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/bin/patrick.wav</locationURI>
+		</link>
+		<link>
+			<name>src/SeaCreature/spongebob.wav</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/bin/spongebob.wav</locationURI>
+		</link>
+		<link>
+			<name>src/SeaCreature/squidward.wav</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/bin/squidward.wav</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
